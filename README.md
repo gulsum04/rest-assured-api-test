@@ -78,7 +78,7 @@ mvn test
 ```
 src/test/java/org/example/ApiTest.java
 pom.xml
-README.md
+
 ```
 
 ---
